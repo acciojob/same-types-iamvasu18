@@ -12,5 +12,5 @@ let value2 = prompt("Enter End Of the Range.");
 value1 = isNaN(Number(value1)) ? value1 : Number(value1);
 value2 = isNaN(Number(value2)) ? value2 : Number(value2);
 
-alert(isSameType(value1, value2));
+
 alert(isSameType(value1, value2));
